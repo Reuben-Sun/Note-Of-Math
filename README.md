@@ -10,7 +10,7 @@
 
 [课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA.md#%E6%A6%82%E7%8E%87%E8%AE%BA)
 
-[习题笔记]
+[习题笔记](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B9%A0%E9%A2%98.md#%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B9%A0%E9%A2%98)
 
 #### 微积分
 
