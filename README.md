@@ -14,6 +14,8 @@
 
 #### 微积分
 
+[课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86.md#%E5%BE%AE%E7%A7%AF%E5%88%86)
+
 #### 线性代数
 
 [课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.md#%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)
