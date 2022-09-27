@@ -31,3 +31,5 @@
 #### 球函数
 
 可以说，我就是为了这碟醋，才准备复习数学的
+
+[课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E7%90%83%E5%87%BD%E6%95%B0.md#%E7%90%83%E5%87%BD%E6%95%B0)
