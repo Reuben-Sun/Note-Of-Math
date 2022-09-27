@@ -27,3 +27,7 @@
 微积分中无穷级数的进阶，在物理中极为常用
 
 [课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0.md#%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0)
+
+#### 球函数
+
+可以说，我就是为了这碟醋，才准备复习数学的
