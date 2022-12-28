@@ -14,7 +14,22 @@
 
 #### 微积分
 
+[课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86.md#%E5%BE%AE%E7%A7%AF%E5%88%86)
+
 #### 线性代数
+
+[课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.md#%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)
 
 ### 二：进阶数学
 
+#### 复变函数
+
+微积分中无穷级数的进阶，在物理中极为常用
+
+[课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0.md#%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0)
+
+#### 球函数
+
+可以说，我就是为了这碟醋，才准备复习数学的
+
+[课本知识](https://github.com/Reuben-Sun/Note-Of-Math/blob/main/%E7%90%83%E5%87%BD%E6%95%B0.md#%E7%90%83%E5%87%BD%E6%95%B0)
